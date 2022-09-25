@@ -11,5 +11,15 @@ public class TestGit {
 	{
 		System.out.println("Changed  by GitX ");
 	}
+	
+	public void test3()
+	{
+		System.out.println("Switched to dev branch");
+	}
+	
+	public void test4()
+	{
+		System.out.println("Switched to dev branch - Added more test cases");
+	}
 
 }
