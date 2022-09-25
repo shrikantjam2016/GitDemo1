@@ -21,5 +21,10 @@ public class TestGit {
 	{
 		System.out.println("Switched to dev branch - Added more test cases");
 	}
+	
+	public void test6()
+	{
+		System.out.println("6 th test");
+	}
 
 }
